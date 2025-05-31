@@ -1,0 +1,20 @@
+"""## Q1: Load the CSV file into a Pandas DataFrame."""
+# Example: df = pd.read_csv("banking_transactions.csv")
+
+"""## Q2: Display the total number of customers in the dataset."""
+
+"""## Q3: List all the unique cities where customers reside."""
+
+"""## Q4: What are the different types of accounts in the bank? Count the number of each."""
+
+"""## Q5: What is the average balance of all customers, grouped by Account Type?"""
+
+"""## Q6: Find the top 5 customers with the highest total transaction amounts."""
+
+"""## Q7: How many total deposits, withdrawals, and transfers have been made? (TransactionType count)"""
+
+"""## Q8: What is the total deposited amount per branch? Sort in descending order."""
+
+"""## Q9: Which gender has made the highest average transaction amount?"""
+
+"""## Q10: Find the customer(s) who made the highest single withdrawal."""
